@@ -4,11 +4,11 @@ import { ReactComponent as StarEmpty } from 'assets/img/star-empty.svg';
 import './styles.css';
 
 type Props = {
-  score : number;
+  score: number;
 }
 
-type StarProps = {
-  fill : number;
+type StarProps = { 
+  fill: number;
 }
 
 // EX:
